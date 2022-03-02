@@ -1,5 +1,5 @@
 # agencianet
-Olá, este projeto utiliza a lib Selenium em Python para baixar os arquivos XML das notas fiscais de cada CNPJ em um período informado, no site da agencianet.<br />
+Olá! Este projeto utiliza a lib Selenium em Python para baixar os arquivos XML das notas fiscais de cada CNPJ em um período informado no site da agencianet.<br />
 Feito para um contador amigo meu.
 
 # Como utilizar
